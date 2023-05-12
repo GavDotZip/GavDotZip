@@ -7,9 +7,8 @@ Self learned Python and current self learning React and R.
 
 Some projects I have ongoing:
 1. Clean Eyre: A recreation of my Final Year Undergrad Project to allow for a more responsive web design.
-2. Weather Reaction: Simple application built using Raect to help me learn about React Development.
-3. @ThePictures: PHP application to showcase skills within PHP using CRUD commands.
-4. Eterna Tribune: Bootstrap HTML website for a fake city news application.
+2. @ThePictures: PHP application to showcase skills within PHP using CRUD commands.
+3. Eterna Tribune: Bootstrap HTML website for a fake city news application.
 
 Future projects:
 1. UG Exam Scraper: Java Web Application which uses a web scraper for students to search for past exam apapers.
