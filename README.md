@@ -11,6 +11,6 @@ Some projects I have ongoing:
 3. Eterna Tribune: Bootstrap HTML website for a fake city news application.
 
 Future projects:
-1. UG Exam Scraper: Java Web Application which uses a web scraper for students to search for past exam apapers.
+1. UG Exam Scraper: Java Web Application which uses a web scraper for students to search for past exam papers.
 2. PMD Journey Guide: React Web Application to assist Pokemon Mystery Dungeon players on their journey.
 3. UFC Stat Analysis: Python built program for analysis of UFC fighters.
