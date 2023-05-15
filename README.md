@@ -6,9 +6,10 @@ Coding experience primarily within Java, Bootstrap HTLM, CSS, PHP and JavaScript
 Self learned Python and current self learning React and R.
 
 Some projects I have ongoing:
-1. Clean Eyre: A recreation of my Final Year Undergrad Project to allow for a more responsive web design.
-2. @ThePictures: PHP application to showcase skills within PHP using CRUD commands.
-3. Eterna Tribune: Bootstrap HTML website for a fake city news application.
+1. Applying RL to UTM: My research paper as part of my Masters degree within University of Galway.
+2. Clean Eyre: A recreation of my Final Year Undergrad Project to allow for a more responsive web design.
+3. @ThePictures: PHP application to showcase skills within PHP using CRUD commands.
+4. Eterna Tribune: Bootstrap HTML website for a fake city news application.
 
 Future projects:
 1. UG Exam Scraper: Java Web Application which uses a web scraper for students to search for past exam papers.
