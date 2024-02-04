@@ -12,16 +12,10 @@ Some other projects I'll be uploading will entail Data Analysis, Web Development
 
 ## 🔧 Technologies & Tools
 
-- Python
-- Java
-- SQL
-- React
-- Bash
-
-## 📊 GitHub Stats
-
-![Gavin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GavDotZip&show_icons=true&theme=dark)
-
-## 📈 Most Used Languages
+- Python 🐍
+- Java ☕
+- SQL 🗃️
+- React 🕸️
+- Bash 🥷
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GavDotZip&layout=compact&theme=dark)
