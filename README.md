@@ -15,6 +15,7 @@ Some other projects I'll be uploading will entail Data Analysis, Web Development
 - Python 🐍
 - Java ☕
 - SQL 🗃️
+- R 🖥️
 - React 🕸️
 - Bash 🥷
 
