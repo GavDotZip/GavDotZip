@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-My name is Gavin, and I'm an IT professional based in Ireland, recently graduated with a BA and MSc. from the University of Galway :school: 
+My name is Gavin, and I'm an IT professional based in Ireland, graduated with a BA (2021) and MSc. (2023) from the University of Galway :school: 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmgzejJpN3k5MzBwYTgyMTB4YjVjOWQyZHpjbGpyZXEyZjM0Z3Q3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11JTxkrmq4bGE0/giphy.gif" height="200", width="500"/>
